@@ -70,8 +70,10 @@ class DefaultFirebaseOptions {
     messagingSenderId: '754843817487',
     projectId: 'my-project-budget-app-dd902',
     storageBucket: 'my-project-budget-app-dd902.appspot.com',
-    androidClientId: '754843817487-a72hq8753o29rqtv0jni7m9hhrcfb0al.apps.googleusercontent.com',
-    iosClientId: '754843817487-6d9qh5hn5a1uhbbbokqglnupkd94tenl.apps.googleusercontent.com',
+    androidClientId:
+        '754843817487-a72hq8753o29rqtv0jni7m9hhrcfb0al.apps.googleusercontent.com',
+    iosClientId:
+        '754843817487-6d9qh5hn5a1uhbbbokqglnupkd94tenl.apps.googleusercontent.com',
     iosBundleId: 'com.example.checkUrBudget',
   );
 }
